@@ -1,3 +1,51 @@
+Tesla Stock Data Web Scraping
+Introduction
+This project involves web scraping Tesla stock data and visualizing the trends over time. The goal is to extract relevant stock information, process the data, and present it in a meaningful way to derive insights.
+
+Features
+Web scraping of Tesla stock data from [source website].
+Data cleaning and preprocessing.
+Time series analysis and visualization of stock trends.
+Summary statistics and trend predictions.
+Installation
+Clone the repository:
+git clone https://github.com/arnav177/Tesla_Stock-and-GameStop.git
+# Tesla Stock Data Web Scraping
+
+Welcome to the Tesla Stock Data Web Scraping project. This project involves scraping stock data for Tesla from various sources and analyzing it using Jupyter Notebook. The project aims to provide insights into Tesla's stock performance over time.
+
+## Table of Contents
+
+- able of Contents
+        Define a Function that Makes a Graph
+        Question 1: Use yfinance to Extract Stock Data
+        Question 2: Use Webscraping to Extract Tesla Revenue Data
+        Question 3: Use yfinance to Extract Stock Data
+        Question 4: Use Webscraping to Extract GME Revenue Data
+        Question 5: Plot Tesla Stock Graph
+        Question 6: Plot GameStop Stock Graph
+
+## Overview
+
+This project demonstrates how to scrape stock data from the web and perform data analysis using Python libraries such as `BeautifulSoup`, `requests`, and `pandas`. The data is visualized to understand the stock performance of Tesla.
+
+## Features
+
+- Web scraping of Tesla stock data
+- Data cleaning and preprocessing
+- Data analysis and visualization
+- Insights and conclusions based on the analysis
+
+## Installation
+
+To get started, clone this repository and install the necessary dependencies:
+
+```bash
+git clone https://github.com/arnav177/Tesla_Stock-and-GameStop.git
+cd Tesla_Stock-and-GameStop
+pip install -r requirements.txt
+
+
 # Content <!-- omit in toc --><!-- markdownlint-disable -->
 
 The `/content` directory is where all the site's (English) Markdown content lives!
